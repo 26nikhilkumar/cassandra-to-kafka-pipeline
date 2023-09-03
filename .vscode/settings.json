@@ -1,0 +1,10 @@
+{
+    "cassandraWorkbench.activeClusterName": "Cluster PasswordAuthenticator",
+    "cassandraWorkbench.activeKeyspace": [
+        [
+            "Cluster PasswordAuthenticator",
+            "pipeline"
+        ]
+    ],
+    "cassandraWorkbench.splitPosition": 65.05258877949339
+}

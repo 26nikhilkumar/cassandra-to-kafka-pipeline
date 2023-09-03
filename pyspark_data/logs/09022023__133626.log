@@ -1,0 +1,4 @@
+[ 2023-09-02 13:36:40,212 ] 86 root - INFO - employee has columns: [['emp_id', 'city', 'emp_name', 'state']]
+[ 2023-09-02 13:36:40,212 ] 87 root - INFO - 3 rows found in table: pipeline.employee
+[ 2023-09-02 13:36:40,213 ] 62 root - INFO - Started writing data to kafka topic employee and server: kafka:9092
+[ 2023-09-02 13:36:42,491 ] 72 root - INFO - Data has been written to  kafka topic: employee

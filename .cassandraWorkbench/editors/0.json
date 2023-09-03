@@ -1,0 +1,1 @@
+{"id":"BZtLiUuGAC01JNFV","clusterName":"Cluster PasswordAuthenticator","keyspace":"pipeline","body":"select * from employee","modified":true,"filename":"script_1.cql","source":"action"}
